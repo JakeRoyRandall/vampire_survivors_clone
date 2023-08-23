@@ -1,0 +1,10 @@
+CollisionShape2D
+Area2D
+Timer
+Node2D
+AudioStreamPlayer
+Sprite2D
+AnimationPlayer
+CollisionPolygon2D
+Camera2D
+CharacterBody2D
